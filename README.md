@@ -9,5 +9,5 @@ Kami mengambil dataset berupa foto daun kemangi dan daun pepaya yang masing masi
 
 # Team
 Anggota dari tim kami adalah :
-nama  : Alam Kurnia Al Fatah                nim : 201910370311218
-nama  : Muhammad Azzayinur Fajri Romdhoni   nim : 201910370311207
+- nama  : Alam Kurnia Al Fatah               (nim : 201910370311218)
+- nama  : Muhammad Azzayinur Fajri Romdhoni  (nim : 201910370311207)
